@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Facebook login</string>
+    <string name="noLogin">Not logged in</string>
+    <string name="login">Login</string>
+
+    <!--    <string name="facebook_app_id">489453139014298</string>-->
+    <!--    <string name="fb_login_protocol_scheme">fb489453139014298</string>-->
+
+    <string name="facebook_app_id">322352712719869</string>
+    <string name="fb_login_protocol_scheme">fb322352712719869</string>
+
+
+    <string name="login_manually">Login Manually</string>
+    <string name="logout">Logout</string>
+
+</resources>
